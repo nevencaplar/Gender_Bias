@@ -1,0 +1,8 @@
+Gender_Random_Forest.ipynb = ipython routine, run this first
+
+Gender_Random_Forest_Visualization.nb = To visualize the results and generate the plot for the paper (Wolfram Mathematica)
+
+maleset, femaleset, Male_Train, Male_Test, Female = help files for the analysis and visualization 
+
+help: caplarn@pyhs.ethz.ch
+
